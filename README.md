@@ -54,6 +54,7 @@ KNN can be used for both Classification and Regression predictive problems. Howe
 1. Ease to interpret output
 2. Calculation time
 3. Predictive Power
+
 KNN algorithm fairs across all parameters of considerations. It is commonly used for its easy interpretation and low calculation time.
 
 ![K - Nearest Neighbour](https://user-images.githubusercontent.com/78207021/181433188-63166900-5b15-4114-a6eb-d69487272e7e.png)
